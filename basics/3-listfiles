@@ -1,2 +1,2 @@
 #!/bin/bash
--l
+ls -l | tr -s ''' ''' | cut -d''' ''' -f1-5,9 
