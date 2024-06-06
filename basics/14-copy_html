@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v documents/project/basics/*.html documents/holbertonschool-shell/
+cp -v ./*.html documents/../
