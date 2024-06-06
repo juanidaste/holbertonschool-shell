@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ../basic/
+cp -v documents/project/basics/*.html documents/holbertonschool-shell/
