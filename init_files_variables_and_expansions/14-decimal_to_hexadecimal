@@ -1,2 +1,2 @@
 #!/bin/bash
-printf Â%x\nÂ $DECIMAL
+echo $HEX
