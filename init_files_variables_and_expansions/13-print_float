@@ -1,2 +1,2 @@
 #!/bin/bash
-printf Â%.2f\nÂ $NUM
+printf "Â´%.2fnÂ" $NUM
