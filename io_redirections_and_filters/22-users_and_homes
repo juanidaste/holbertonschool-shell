@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$sorted_user_info"
+cut -d: -f1,6 /etc/passwd | sort
