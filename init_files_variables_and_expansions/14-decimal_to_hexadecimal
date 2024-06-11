@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $HEX
+echo '$x\n' $DECIMAL
