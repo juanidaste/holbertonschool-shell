@@ -3,3 +3,5 @@ pwd: El comando pwd (de las siglas en inglés printworking directorio, cuya trad
 ls: List files
 
 cd: Cgange to user to home directory
+
+ls -l: Display content in a long format
