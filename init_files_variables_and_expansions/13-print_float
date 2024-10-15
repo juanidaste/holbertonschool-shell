@@ -1,2 +1,2 @@
 #!/bin/bash
-"%.3f\n" $(echo "98 + 0"
+printf "%.2f \n" $(echo 0 + 98) 
